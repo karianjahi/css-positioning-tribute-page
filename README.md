@@ -1,7 +1,5 @@
 # Tribute Page — Dr. Norman Borlaug
 
-![Preview of Tribute Page](images/preview.png)
-
 A responsive and accessible tribute page dedicated to **Dr. Norman Borlaug**, the agricultural scientist who helped save over a billion people from starvation. This project was built as part of an accessibility-focused exercise.
 
 ## 🌟 Features
