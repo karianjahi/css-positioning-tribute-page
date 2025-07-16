@@ -12,7 +12,7 @@ A responsive and accessible tribute page dedicated to **Dr. Norman Borlaug**, th
 ## 📁 Project Structure
 
 ```text
-tribute-page/
+css-positioning-tribute-page/
 │
 ├── images/
 │   ├── tribute-page-main-image.png  # Main image of Dr. Borlaug's work
@@ -38,7 +38,7 @@ tribute-page/
 1. Clone this repository:
 
 ```
-git clone https://github.com/karianjahi/tribute-page.git
+git clone https://github.com/karianjahi/css-positioning-tribute-page.git
 ```
 2. Open `index.html` in your browser to view the page.
 
