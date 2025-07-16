@@ -12,7 +12,7 @@ A responsive and accessible tribute page dedicated to **Dr. Norman Borlaug**, th
 ## 📁 Project Structure
 
 ```text
-css-positioning-tribute-page/
+css-accessibility-tribute-page/
 │
 ├── images/
 │   ├── tribute-page-main-image.png  # Main image of Dr. Borlaug's work
@@ -22,6 +22,7 @@ css-positioning-tribute-page/
 ├── README.md                       # This file
 ├── index.html                      # Main HTML file
 └── styles.css                      # Custom CSS styles
+
 ```
 ## 🔍 Accessibility Highlights
 - Proper use of landmarks (`<main>`, `<header>`, `<figure`>, `<blockquote>`)
@@ -38,7 +39,7 @@ css-positioning-tribute-page/
 1. Clone this repository:
 
 ```
-git clone https://github.com/karianjahi/css-positioning-tribute-page.git
+git clone https://github.com/karianjahi/css-accessibility-tribute-page.git
 ```
 2. Open `index.html` in your browser to view the page.
 
